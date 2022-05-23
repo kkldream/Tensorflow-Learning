@@ -1,0 +1,7 @@
+dataset/test
+dataset/train
+dataset/valid
+dataset/archive.zip
+dataset/balls.csv
+dataset/class_dict.csv
+dataset/EfficientNetB3-balls-99.23.h5
