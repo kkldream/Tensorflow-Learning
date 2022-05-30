@@ -2,3 +2,8 @@ archive.zip
 annotations
 images
 models
+dataset/original
+dataset/test
+dataset/train
+dataset/valid
+*.h5
